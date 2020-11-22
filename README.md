@@ -1,2 +1,8 @@
 # django_RealEstate
- https://www.udemy.com/course/python-django-dev-to-deployment/learn/lecture/12055754#overview
+Learn Python and build & deploy a real estate application using the Django framework & PostgreSQL
+
+## Tasks
+* Build a real estate application using the Django framework & Postgres
+* Learn about apps, templates, models & migrations, admin customization & more
+* Build virtual environments and deploy using Gunicorn and Nginx
+
